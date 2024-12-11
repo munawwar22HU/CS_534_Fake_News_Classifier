@@ -1,0 +1,19 @@
+Dataset Overview
+==================================================
+Number of articles: 44898
+Number of missing values:
+title      0
+text       0
+subject    0
+date       0
+label      0
+dtype: int64
+
+Descriptive Statistics:
+                                                    title  ...  label
+count                                               44898  ...  44898
+unique                                              38729  ...      2
+top     Factbox: Trump fills top jobs for his administ...  ...   Fake
+freq                                                   14  ...  23481
+
+[4 rows x 5 columns]

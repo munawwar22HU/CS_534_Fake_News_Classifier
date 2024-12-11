@@ -1,0 +1,21 @@
+True News Text Length:
+count    21417.000000
+mean       385.640099
+std        274.006204
+min          0.000000
+25%        148.000000
+50%        359.000000
+75%        525.000000
+max       5172.000000
+Name: text_length, dtype: float64
+
+Fake News Text Length:
+count    23481.000000
+mean       423.197905
+std        408.388890
+min          0.000000
+25%        240.000000
+50%        363.000000
+75%        506.000000
+max       8135.000000
+Name: text_length, dtype: float64
